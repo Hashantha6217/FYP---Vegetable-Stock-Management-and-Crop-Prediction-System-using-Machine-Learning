@@ -1,0 +1,45 @@
+# Python Backend (final/)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Datasets and large models (optional: remove if you want them in the repo)
+# final/Vegetables_fruit_prices_with_climate_130000_2020_to_2025.csv
+# final/models/**/*.pkl
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
