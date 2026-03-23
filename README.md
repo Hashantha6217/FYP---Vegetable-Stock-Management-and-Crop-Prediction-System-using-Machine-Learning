@@ -14,6 +14,16 @@ Here is a glimpse of the application in action:
   <img src="img/2.jpeg" alt="App Screenshot 2" width="300" />
 </div>
 
+## 📄 Project Documentation
+
+This project includes detailed documentation to better understand the system design and implementation:
+
+| Document Name | Description |
+|--------------|------------|
+| 📘 [Project Report](./Documents/21ug0618_thesis_.pdf)
+| 📗 [System Design](./Documents/21UG0623 21UG0618 internal.pdf)
+
+
 ## Key Features
 - **Intelligent Crop Recommendation**: Suggests the top 5 most viable crops based on the user's specific region and live weather data.
 - **Dynamic Price Prediction**: Forecasts market prices (LKR/kg) using advanced machine learning regression models trained on extensive historical data.
