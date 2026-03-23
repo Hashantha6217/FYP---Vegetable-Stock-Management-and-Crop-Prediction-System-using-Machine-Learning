@@ -20,7 +20,8 @@ This repository includes important internal documentation:
 
 - 📘 **Internal Report**  
   👉 [View Document](./img/21UG0623%2021UG0618%20internal.pdf)
-  👉 [View PDF](./img/21ug0618_thesis_.pdf)
+   📘 **Final Thesis** 
+  👉 [View Document](./img/21ug0618_thesis_.pdf)
 
 
 ## Key Features
