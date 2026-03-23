@@ -16,12 +16,10 @@ Here is a glimpse of the application in action:
 
 ## 📄 Project Documentation
 
-This project includes detailed documentation to better understand the system design and implementation:
+This repository includes important internal documentation:
 
-| Document Name | Description |
-|--------------|------------|
-| 📘 [Project Report](./Documents/21ug0618_thesis_.pdf)
-| 📗 [System Design](./Documents/21UG0623 21UG0618 internal.pdf)
+- 📘 **Internal Report**  
+  👉 [View Document](./img/21UG0623%2021UG0618%20internal.pdf)
 
 
 ## Key Features
